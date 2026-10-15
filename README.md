@@ -35,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
