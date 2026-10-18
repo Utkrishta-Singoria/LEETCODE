@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/0009-palindrome-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
