@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/0009-palindrome-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -124,4 +127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Utkrishta-Singoria/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
